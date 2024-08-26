@@ -6,7 +6,7 @@
 
     Edits made by:
     TODO: <Add name of student 1 Here> -- to be added by student 1
-    TODO: <Add name of student 2 Here> -- to be added by student 2
+    TODO: <Add name of student 2 Here> -- gavin leach
     TODO: <Add name of student 3 Here> -- to be added by student 3 (if relevant otherwise, student 2 should remove this line)
  */
 #include <iostream>
@@ -26,6 +26,7 @@ int main() {
         cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .__> /" << endl; // student 3(2) may change this line
         cout << "                `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "          :)           " << endl;
     }
 
     return 0;

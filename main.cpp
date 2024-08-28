@@ -25,8 +25,8 @@ int main() {
         cout << " __                         __     " << endl; 
         cout << "                          <(o )___-" << endl; 
         cout << "                You got now half of duck " << i << endl;
-        cout << "                           ( .__> /" << endl; // student 3(2) may change this line
-        cout << "                            `----' " << endl; // TODO student 2 may change this line and may add lines below
+        cout << "                  :)       ( .__> /" << endl; 
+        cout << "                            `----' " << endl;
     }
 
     return 0;
